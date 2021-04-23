@@ -1,0 +1,117 @@
+node {
+  diameter: 50px;
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+node.* {
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+}
+node.audit_point_2 {
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+  caption: "{audit_point_2}";
+}
+node.terms {
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+  caption: "{terms}";
+}
+node.field {
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+  defaultCaption: "<id>";
+  caption: "{field_name}";
+}
+node.audit_point_1 {
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+  caption: "{audit_point_1}";
+  diameter: 65px;
+}
+node.audit_point_type {
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+  caption: "{audit_point_type}";
+  diameter: 80px;
+}
+node.est_unit {
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+  caption: "{est_unit}";
+}
+node.ls_document {
+  color: #8DCC93;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+  caption: "{ls_document_name}";
+  diameter: 50px;
+}
+node.ls_terms {
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+  caption: "{ls_terms}";
+}
+node.menu {
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+  caption: "{menu}";
+}
+node.project_type {
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+  caption: "{project_type}";
+  diameter: 65px;
+}
+node.project_type_2 {
+  caption: "{project_type_2}";
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+  diameter: 50px;
+}
+node.system {
+  caption: "{sys_name}";
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+  diameter: 65px;
+}
+node.audit_point_2_his {
+  caption: "{audit_point_2}";
+  color: #ECB5C9;
+  border-color: #da7298;
+  text-color-internal: #2A2C34;
+}
+node.document {
+  caption: "{document_name}";
+  color: #8DCC93;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+}
