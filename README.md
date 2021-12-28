@@ -10,3 +10,7 @@ gif测试：
 
 ![CGE-00](https://user-images.githubusercontent.com/40756487/147311813-42a6563a-cd48-4016-9830-370a0db62b63.png)
 aaa
+
+
+gif最终图：
+![CGE_final](https://user-images.githubusercontent.com/40756487/147519600-31012d3a-8c75-4f0e-a692-51ca38aa9e05.gif)
