@@ -13,4 +13,4 @@ aaa
 
 
 gif最终图：
-![CGE_final](https://user-images.githubusercontent.com/40756487/147519600-31012d3a-8c75-4f0e-a692-51ca38aa9e05.gif)
+![CGEfinal](CGE_final.gif)
